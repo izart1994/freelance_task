@@ -17,6 +17,6 @@ To start with this project, run:
 7) animated_button_bar: row of buttons with an animation on selection
 8) cupertino_icons: default set of icon assets
 
-# image of the application
+# image of application
 
-![img.png](img.png)
+![Alt Text](assets/images/app_image.png)
